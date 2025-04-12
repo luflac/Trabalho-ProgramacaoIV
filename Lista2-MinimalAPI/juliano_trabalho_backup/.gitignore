@@ -1,0 +1,41 @@
+# Arquivos de build
+bin/
+obj/
+
+# Configurações do Visual Studio
+.vs/
+*.user
+*.suo
+
+# Arquivos de log
+*.log
+
+# Configurações locais
+*.db
+*.sqlite
+*.db-journal
+
+# Configurações de ambiente
+appsettings.Development.json
+appsettings.Local.json
+
+# Diretórios do Rider (caso use JetBrains)
+.idea/
+
+# Pasta de pacotes (caso use pacotes locais)
+packages/
+
+# Arquivos temporários e de cache
+*.tmp
+*.temp
+*.pid
+*.cache
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Publish temporário
+.publish/
