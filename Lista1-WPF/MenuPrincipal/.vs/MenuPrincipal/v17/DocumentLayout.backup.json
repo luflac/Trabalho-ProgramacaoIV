@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\facec.lab01\\Downloads\\Trabalho_ProgIV\\Trabalho_ProgIV\\MenuPrincipal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9651E516-F80C-47D8-8385-16E0910AF726}|MenuPrincipal\\MenuPrincipal.csproj|c:\\users\\facec.lab01\\downloads\\trabalho_progiv\\trabalho_progiv\\menuprincipal\\menuprincipal\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9651E516-F80C-47D8-8385-16E0910AF726}|MenuPrincipal\\MenuPrincipal.csproj|solutionrelative:menuprincipal\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9651E516-F80C-47D8-8385-16E0910AF726}|MenuPrincipal\\MenuPrincipal.csproj|c:\\users\\facec.lab01\\downloads\\trabalho_progiv\\trabalho_progiv\\menuprincipal\\menuprincipal\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9651E516-F80C-47D8-8385-16E0910AF726}|MenuPrincipal\\MenuPrincipal.csproj|solutionrelative:menuprincipal\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\facec.lab01\\Downloads\\Trabalho_ProgIV\\Trabalho_ProgIV\\MenuPrincipal\\MenuPrincipal\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MenuPrincipal\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\facec.lab01\\Downloads\\Trabalho_ProgIV\\Trabalho_ProgIV\\MenuPrincipal\\MenuPrincipal\\MainWindow.xaml",
+              "RelativeToolTip": "MenuPrincipal\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-01T22:29:50.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\facec.lab01\\Downloads\\Trabalho_ProgIV\\Trabalho_ProgIV\\MenuPrincipal\\MenuPrincipal\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MenuPrincipal\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\facec.lab01\\Downloads\\Trabalho_ProgIV\\Trabalho_ProgIV\\MenuPrincipal\\MenuPrincipal\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MenuPrincipal\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwEEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T19:10:04.107Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
